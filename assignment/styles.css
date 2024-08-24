@@ -19,9 +19,10 @@ body{
     width: 100%;
     margin: 10px;
     padding: 10px;
-    border: 2px solid black;
 }
 p {
     font-family:'Times New Roman', Times, serif;
-    
+    text-align: justify;
+    margin-top: 0;
+    width:70%
 }
